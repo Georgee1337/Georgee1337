@@ -34,10 +34,4 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Georgee/Georgee/blob/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/88823233?v=4"  />
