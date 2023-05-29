@@ -19,7 +19,11 @@
 
 ###
 <img align="center" src="https://profile-counter.glitch.me/Georgee/count.svg?"  />
-
-<img align="center" height="150" src="https://avatars.githubusercontent.com/u/88823233?v=4"  />
-
+<div align="center">
+   <img src="https://profile-counter.glitch.me/Georgee/count.svg?"  />
+</div>
+###
+<div align="center">
+  <img align="center" height="150" src="https://avatars.githubusercontent.com/u/88823233?v=4"  />
+</div>
 ###
